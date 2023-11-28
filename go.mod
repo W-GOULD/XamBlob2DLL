@@ -9,4 +9,3 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.18 // indirect
 )
 
-// Include any replace directives here if needed.

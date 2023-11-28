@@ -1,6 +1,6 @@
 // pkg/constants/constants.go
 
-package constants
+package cons
 
 const (
 	// AssemblyStore Constants

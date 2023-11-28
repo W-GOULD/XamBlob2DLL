@@ -11,9 +11,9 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/W-GOULD/XamBlob2DLL/pkg/compression"
+	"github.com/W-GOULD/XamBlob2DLL/pkg/manifest"
 	"github.com/pierrec/lz4"
-	"github.com/yourusername/XamBlob2DLL/pkg/compression"
-	"github.com/yourusername/XamBlob2DLL/pkg/manifest"
 )
 
 type AssemblyStore struct {
